@@ -26,6 +26,7 @@ class Kartik:
     name       = "Kartik Soni"
     role       = "Student & Aspiring AI Engineer & Researcher"
     languages  = ["Python ", "C++ "]
+    focus       = ["LLMs", "Agentic AI", "Deep Learning", "NLP", "Computer Vision"]
     interests  = ["Deep Learning", "NLP", "Data Science", "Building cool things"]
     currently  = "working on a vector searchh library"
 
@@ -36,28 +37,60 @@ class Kartik:
 ---
 
 ## Tech Stack
-
-<div align="center">
-
+ 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### AI / ML / Data
+ 
+### ML / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AutoKeras](https://img.shields.io/badge/AutoKeras-00BCD4?style=for-the-badge&logo=keras&logoColor=white)
+ 
+### NLP / LLM
+![BERT](https://img.shields.io/badge/BERT-FFB300?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-4A90D9?style=for-the-badge&logo=buffer&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
+ 
+### Data & Scientific Computing
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Xarray](https://img.shields.io/badge/NetCDF%2FXarray-007396?style=for-the-badge&logo=python&logoColor=white)
+ 
+### Vision & Audio
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+ 
+### Web & Deployment
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+ 
+### Databases & BI
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+ 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+ 
+------
 
 ##Featured Projects
 
