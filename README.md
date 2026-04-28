@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/kartiks15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Learning+one+bug+at+a+time+🐛;Python+%2B+C%2B%2B+%3D+My+superpower+⚡;Building+cool+AI+stuff+🤖;Always+curious%2C+always+coding+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Learning+one+bug+at+a+time+%F0%9F%90%9B;Python+%2B+C%2B%2B+%3D+My+superpower+%E2%9A%A1;Building+cool+AI+stuff+%F0%9F%A4%96;Always+curious%2C+always+coding+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
