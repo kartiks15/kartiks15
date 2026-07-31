@@ -1,7 +1,4 @@
----
-
 ## About Me
-
 ```python
 class Kartik:
     name       = "Kartik Soni"
@@ -12,5 +9,3 @@ class Kartik:
     def say_hi(self):
         print("Thanks for visiting! Let's build something awesome together")
 ```
-
----
